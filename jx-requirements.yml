@@ -32,7 +32,7 @@ environments:
   repository: ""
 gitops: true
 ingress:
-  domain: ""
+  domain: "jenkins-x.becamex.com.vn"
   externalDNS: false
   namespaceSubDomain: -jx.
   tls:
